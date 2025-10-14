@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zumzumbum
 - 👀 I’m interested in proggraming
-- 🌱 I’m currently learning phyton
-- 💞️ I’m looking to collaborate on phyton
+- 🌱 I’m currently learning C,Java
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me no
 - 😄 Pronouns: he
 - ⚡ Fun fact: ...
